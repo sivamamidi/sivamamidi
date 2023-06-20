@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm sivanarayna</h1>
-<h3 align="center">A passionate Machine learning and Artificial Intelligence</h3>
+<h3 align="center">A passionate about Machine learning and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivamamidi&label=Profile%20views&color=0e75b6&style=flat" alt="sivamamidi" /> </p>
 
