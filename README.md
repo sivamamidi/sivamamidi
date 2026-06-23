@@ -1,25 +1,140 @@
+<h1 align="center">Hi 👋, I'm Sivanarayana Mamidi</h1>
+<h3 align="center">Generative AI Engineer | LLMs | Agentic AI | RAG Systems</h3>
 
-<h1 align="center">Hi 👋, I'm sivanarayna</h1>
-<h3 align="center">A passionate about Machine learning and Artificial Intelligence</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivamamidi&label=Profile%20views&color=0e75b6&style=flat" alt="sivamamidi" /> </p>
-
-- 🌱 I’m currently learning **LLM, GPT,Deep learning and Computer vision**
-
-- 👯 I’m looking to collaborate on **Computer Vision and NLP engineer**
-
-- 📝 I regularly write articles on [https://medium.com/@sivamamidi1998](https://medium.com/@sivamamidi1998)
-
-- 📫 How to reach me **sivamamidi1998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/190A8HhCbjYulZR_cSASaFM9scp4H0xk2/view?usp=drive_link](https://drive.google.com/file/d/190A8HhCbjYulZR_cSASaFM9scp4H0xk2/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sivanarayanama2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sivanarayanama2" height="30" width="40" /></a>
-<a href="https://medium.com/@sivamamidi1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sivamamidi1998" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sivamamidi1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sivamamidi1998" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sivanarayna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivanarayna" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/meshwar1969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="meshwar1969" height="30" width="40" /></a>
+<p align="center">
+Building production-grade AI systems with LLMs, RAG, Agents, and Cloud Infrastructure.
 </p>
 
+---
+
+## 🚀 About Me
+
+I am a Generative AI Engineer with experience in designing and deploying large-scale AI systems across enterprise use cases including:
+
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Architectures
+- Fine-tuning Large Language Models
+- AI Infrastructure & Deployment Optimization
+- Reinforcement Learning for LLM Improvement
+
+Currently working on:
+- Production-grade Agentic AI systems
+- Multi-agent workflows with LangGraph
+- Hybrid retrieval systems
+- LLM evaluation and observability
+- Cloud-native AI deployments on AWS & Azure
+
+---
+
+## 💼 Experience
+
+### Generative AI Engineer | GlobalLogic Technologies
+**Jul 2025 – Present**
+
+- Architected end-to-end SOW Generator platform from meeting transcripts
+- Built hybrid retrieval system using BM25 + HNSW
+- Designed memory-driven context-aware generation systems
+- Built LLM quality gates for hallucination detection
+- Worked with AWS Bedrock and Azure AI services
+
+### AI Engineer | Netweb Technologies
+**Aug 2023 – Jul 2025**
+
+- Built high-performance Generative AI assistant using vLLM
+- Developed Agentic AI system for RFP & BOM generation
+- Fine-tuned LLaMA 3.1 (70B & 8B)
+- Optimized inference using TensorRT and Quantization
+- Built scalable AI systems for enterprise deployment
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+- FastAPI
+- React
+
+### Generative AI / LLM
+- GPT-4
+- LLaMA
+- Qwen
+- Claude
+- vLLM
+- HuggingFace Transformers
+
+### Agentic AI & RAG
+- LangGraph
+- LangChain
+- LangSmith
+- Vector Databases
+- Hybrid Search
+- Tool Calling
+
+### Fine-Tuning & Optimization
+- LoRA
+- QLoRA
+- PEFT
+- PPO
+- GRPO
+- Quantization
+- Knowledge Distillation
+
+### Cloud & Infrastructure
+- AWS Bedrock
+- Azure AI Foundry
+- Docker
+- Kubernetes
+- TensorRT
+- ONNX
+
+### AI Domains
+- NLP
+- Reinforcement Learning
+- Computer Vision
+- Multimodal AI
+
+---
+
+## 🔥 Key Projects
+
+### AI Professional Services (Papilio)
+- Built multi-agent system with shared state management
+- Implemented memory-driven execution using PostgreSQL
+- Reduced end-to-end latency by 45%
+
+### LLM for RFP
+- Developed enterprise RFP assistant using LangGraph + LLaMA
+- Enabled 400+ enterprise users
+- Reduced manual effort by 70%
+
+---
+
+## 📈 Key Achievements
+
+🏆 2nd Position — Netweb Hackathon  
+📄 Published research at 3rd ICSMDI Conference  
+🎓 M.Tech in Artificial Intelligence (CGPA: 9.45/10)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Agentic Architectures
+- LLM Evaluation Systems
+- Reinforcement Learning for AI Agents
+- Multimodal AI Systems
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/sivamamidi
+- LinkedIn: Add your LinkedIn URL here
+- Email: sivamamidi1998@gmail.com
+
+---
+
+⭐ Always open to collaborating on AI, LLM, and GenAI projects.
