@@ -58,10 +58,10 @@ Currently working on:
 - NLP, Reinforcement Learning, Computer Vision, Multimodal AI
 ---
 ## 📈 Key Achievements
-
 🏆 2nd Position — Netweb Hackathon  
 📄 Published research at 3rd ICSMDI Conference  
 🎓 M.Tech in Artificial Intelligence (CGPA: 9.45/10)
+
 ---
 ## 🌱 Currently Learning
 - Advanced Agentic Architectures
@@ -79,14 +79,19 @@ Currently working on:
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivamamidi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivamamidi&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sivamamidi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivamamidi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivamamidi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
